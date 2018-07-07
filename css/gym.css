@@ -1,0 +1,39 @@
+body {
+    background: url("../images/gym.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+}
+
+div {
+    background-color: #ec6f4e;
+    width: 60%;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 25px;
+    border-color: rgba(18,65,92,0.49);
+    opacity: 0.8;
+}
+
+button {
+    background: grey;
+    padding: 20px;
+    color: white;
+    font-size: 2em;
+    border-radius: 10px;
+    color: black;
+    border-color: grey;
+    cursor: pointer;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+p {
+    font-size: 1.80em;
+}
+
+i{
+    color: white;
+    font-size: 4em;
+}
